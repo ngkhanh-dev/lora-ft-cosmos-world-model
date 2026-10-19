@@ -52,6 +52,6 @@ coverage.xml
 docs/_build/
 
 # Video
-.mp4
+*.mp4
 
 tools/
