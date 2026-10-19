@@ -1,0 +1,10 @@
+video,PSNR (dB),SSIM,LPIPS,Latent L2,I3D-L2,LoRA thắng,Base thắng
+9,LoRA ✓,LoRA ✓,LoRA ✓,LoRA ✓,LoRA ✓,5,0
+19,Base ✓,LoRA ✓,LoRA ✓,Base ✓,LoRA ✓,3,2
+60,Base ✓,LoRA ✓,LoRA ✓,≈,Base ✓,2,2
+62,Base ✓,LoRA ✓,LoRA ✓,Base ✓,Base ✓,2,3
+64,Base ✓,Base ✓,Base ✓,Base ✓,Base ✓,0,5
+65,LoRA ✓,LoRA ✓,LoRA ✓,LoRA ✓,Base ✓,4,1
+98,LoRA ✓,Base ✓,Base ✓,LoRA ✓,LoRA ✓,3,2
+100,Base ✓,LoRA ✓,LoRA ✓,Base ✓,LoRA ✓,3,2
+LoRA - Base - hoà,3 - 5 - 0,6 - 2 - 0,6 - 2 - 0,3 - 4 - 1,4 - 4 - 0,22,17
